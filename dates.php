@@ -110,12 +110,12 @@
 		</tr>
 	  </thead>
 	  <tbody>
-	  	<tr><td>Marketing (Teams)</td><td>Monday</td><td>Aazib and Melissa</td></tr>
-		<tr><td>Hospitality</td><td>Tuesday</td><td>Amy and Victoria</td></tr>
-	  	<tr><td>Finance</td><td>Wednesday</td><td>Jessica and Ezaan</td>
-		<tr><td>Business Admin</td><td>Wednesday</td><td>Natania and Jennifer</td></tr>
-  		<tr><td>Marketing (Individual)</td><td>Thursday</td><td>Asdaq and Sophie</td></tr>
-		<tr><td>Principles</td><td>Thursday</td><td>Ibrahim and Laura</td></tr>
+	  	<tr><td>Marketing (Teams)</td><td>Monday</td><td>Anand and Brandon</td></tr>
+		<tr><td>Hospitality</td><td>Tuesday</td><td>Kate</td></tr>
+	  	<tr><td>Finance</td><td>Wednesday</td><td>Kevin and Ayush</td>
+		<tr><td>Business Admin</td><td>Wednesday</td><td>Logan </td></tr>
+  		<tr><td>Marketing (Individual)</td><td>Thursday</td><td>Joe and Sam</td></tr>
+		<tr><td>Principles</td><td>Thursday</td><td>Rohan and Victor</td></tr>
 	  </tbody>
 	</table>
 
@@ -125,7 +125,7 @@
 	<img src="img/location.png" align="left" width="50"/>
 	<h5 style="margin-top: 30px;">Hamilton Convention Centre</h5><br/>
 	<img src="img/date.png" align="left" width="50"/>
-	<h5 style="margin-top: 20px;">Exams: Oct 31, Case Studies: Nov 8</h5><br/>
+	<h5 style="margin-top: 20px;">Exams: November 24, Case Studies: Nov 8</h5><br/>
 	<img src="img/money.png" align="left" height="50"/>
 	<h5 style="margin-top: 15px;">$37 Membership Fee + Regionals Fee</h5><br/>
   </div>
@@ -136,7 +136,7 @@
 	<img src="img/location.png" align="left" width="50"/>
 	<h5 style="margin-top: 30px;">Toronto Sheraton Centre</h5><br/>
 	<img src="img/date.png" align="left" width="50"/>
-	<h5 style="margin-top: 20px;">February 9-11, 2017</h5><br/>
+	<h5 style="margin-top: 20px;">February 9-11, 2019</h5><br/>
 	<img src="img/money.png" align="left" height="50"/>
 	<h5 style="margin-top: 15px;">$180 Provincial Fee + $115 Hotel Fee </h5><br/>
   </div>
@@ -147,7 +147,7 @@
 	  <img src="img/location.png" align="left" width="50"/>
 	  <h5 style="margin-top: 30px;">Anaheim, California</h5><br/>
 	  <img src="img/date.png" align="left" width="50"/>
-	  <h5 style="margin-top: 20px;">April 24 - May 1, 2017</h5><br/>
+	  <h5 style="margin-top: 20px;">April 24 - May 1, 2018</h5><br/>
 	  <img src="img/money.png" align="left" height="50"/>
 	  <h5 style="margin-top: 15px;">TBD</h5><br/>
   </div>
