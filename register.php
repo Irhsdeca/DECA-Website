@@ -177,7 +177,7 @@
 <!-- registration people -->
 <form id="reg" method='post'>
 
-<h4>Register for IRHS DECA 2016/2017</h4>
+<h4>Register for IRHS DECA 2018/2019</h4>
 
 <h5>Personal Information:</h5>
 
